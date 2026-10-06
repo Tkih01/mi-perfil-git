@@ -3,3 +3,7 @@ Quisiera aprender ciberseguridad, analisis forense, criptografia, binario, IA y 
 Por que me interesa?
 
 Por que las computadoras son maquinas increibles y quisiera aprender de todo sobre ellas
+
+Que necesito aprender primero?
+
+Aprenderia primero como funcionan, lenguajes base, fundamentos y el hardware
